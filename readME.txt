@@ -5,4 +5,4 @@
 5-add json library (json simple) to your dependencies
 
 
--in src/test/java --> you will find the classes I created which covers API question (part 1 & 2)
+-in src/test/java --> you will find the classes I created
